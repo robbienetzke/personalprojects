@@ -1,6 +1,6 @@
 # Hi
 
-You are viewing a repository of some of my favorite projects that I have taken on. Some have been given to me as problems in an academic setting: these programming projects, analyses and proofs can be found in the schoolprojects directory. Outside of academics, I have taken an interest in algorithmic stock trading. These algorithms may be found in stocktradingalgos.
+You are viewing a repository of some of my favorite projects that I have taken on. Some have been given to me as problems in an academic setting. These programming projects, analyses and proofs can be found in the schoolprojects directory. Outside of academics, I have taken an interest in algorithmic stock trading. These algorithms may be found in stocktradingalgos.
 
 # stocktradingalgos
 
