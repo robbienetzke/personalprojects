@@ -12,11 +12,11 @@ This algorithm uses a basket of cointegrated stock pairs and trades each pair ba
 
 ### Algoritms
 
-In here, I implement a connected graph shortest path solver using A*. The script can solve a variety of problems seemingly unrelated to A*, just as long as the problem is presented as a shortest paths problem on a graph with positive weighted edges. In the worst case, A* has a linear runtime. Other algorithms were implemented outside the IDE for this course (midterms, final).
+In here, I implemented a connected graph shortest path solver using A*. The script can solve a variety of problems seemingly unrelated to A*, just as long as the problem is presented as a shortest paths problem on a graph with positive weighted edges. In the worst case, A* has a linear runtime. Other algorithms were implemented outside the IDE for this course (midterms, final).
 
 ### Data Structures 
 
-In here, I have a variety of data structures to explore. Notable ones are: ArrayList, which is an ArrayList that uses a Java Array as the underlying structure (not resizeable), but the ArrayList implemented is resizable. ArrayHeapMinPQ, which is a priority queue with the ability to change the priority of an item. KDTree, which is a two dimensional tree that allows for quick access, on average, of nodes in the tree. 
+In here, I have a variety of data structures to examine. Notable ones are: ArrayList, which is an ArrayList that uses a Java Array as the underlying structure (not resizeable), but the ArrayList implemented is resizable. ArrayHeapMinPQ, which is a priority queue with the ability to change the priority of an item. KDTree, which is a two dimensional tree that allows for quick access, on average, of nodes in the tree. 
 
 ### Econometric Analysis
 
@@ -24,5 +24,5 @@ In this homework, I explored the distribution of firm productivity under the Cob
 
 ### Time Series Analysis
 
-In this project, I explore a variety of Autoregressive Moving Average models to fit to a dataset. Different models are considered, and one final model is explored in further detail at the end of the report, along with a graph of my predictions for the coming decade.
+In this project, I explored a variety of Autoregressive Moving Average models to fit to a dataset. Different models are considered, and one final model is explored in further detail at the end of the report, along with a graph of my predictions for the coming decade.
 
