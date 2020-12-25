@@ -24,5 +24,5 @@ In this homework, I explored the distribution of firm productivity under the Cob
 
 ### Time Series Analysis
 
-In this project, I explore a variety of Autoregressive Moving Average models to fit to a dataset of number of acres burned in a county over a few decades. Different models are considered, and one final model is explored in further detail at the end of the report, along with a graph of my predictions for the coming decade.
+In this project, I explore a variety of Autoregressive Moving Average models to fit to a dataset. Different models are considered, and one final model is explored in further detail at the end of the report, along with a graph of my predictions for the coming decade.
 
