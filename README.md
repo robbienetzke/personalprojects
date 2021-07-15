@@ -26,4 +26,3 @@ In this homework, I explored the distribution of firm productivity under the Cob
 
 In this project, I explored a variety of Autoregressive Moving Average models to fit to a dataset. Different models are considered, and one final model is explored in further detail at the end of the report, along with a graph of my predictions for the coming decade.
 
-<script src='https://www.quantconnect.com/terminal/backtest.js?sid=cc31e0d2f94acd0c50d2b1826e5925b3'></script>
