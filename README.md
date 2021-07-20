@@ -4,9 +4,13 @@ You are viewing a repository of some of my favorite projects that I have taken o
 
 # stocktradingalgos
 
-### pairstrading.py
+### Random Forest Classifier
 
-This algorithm uses a basket of cointegrated stock pairs and trades each pair based on the price spread between the two stocks. In prior research, I verified the cointegration of stock pairs using an Augmented Dickey-Fuller (ADF) test. Stationarity in the price spread allows for a mean-reversion assumption, so this algorithm longs and shorts a stock in each pair depending on the spread of their prices. Each asset is operates under the Morningstar classification of a semiconductor firm, so the price correlation between any two assets in this particular basket typically have a correlation coefficient above 0.5. The basket of stocks does not attempt to minimize variance of returns by choosing uncorrelated pairs, which makes it not practial for use; However, the logic of the algorithm may be applied to any number of uncorrelated pairs and the stock universe may be manually adjusted. That being said, if there is another Y2K, the whole portfolio would likely suffer. Unfortunately, Quantopian has dispanded, the web server is completely lost, and this algorithm used the Quantopian classes and IDE.
+A simple random forest model to trade SPY.
+
+### Net Current Asset Value
+
+Using the NCAV ratio, attempt to find undervalued companies in the investment universe.
 
 # schoolprojects
 
